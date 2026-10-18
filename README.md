@@ -32,6 +32,11 @@
 </div>
 
 ---
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 ### 📬 Connect With Me
 
